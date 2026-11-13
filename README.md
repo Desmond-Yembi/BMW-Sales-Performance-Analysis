@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard that analyses BMW sales from 2010 to 2024 by model, region, fuel type, and transmission.
 
-![BMW Sales Dashboard](images/dashboard.png)
-
 ## Project Overview
 
 This project turns a 50,000-row BMW sales dataset into a one-page Power BI dashboard. It shows headline KPIs and lets users filter by model and fuel type to see how sales change across years, regions, and vehicle types.
@@ -72,11 +70,11 @@ This project turns a 50,000-row BMW sales dataset into a one-page Power BI dashb
 
 ## Repository Structure
 
-- `data/`: [describe the files, e.g. the BMW sales dataset in CSV format]
-- `images/`: [dashboard screenshots]
-- [`BMW_Dashboard.pbix`: the Power BI file, if you add it to the repo]
+- `data/`
+- `images/`
+- [`BMW_Dashboard.pbix`
 
 ## Author
 
-**Geh Desmond Yembi Meh**
+**Desmond Yembi **
 [LinkedIn](https://www.linkedin.com/in/desmond-yembi-4a897621b/) | [GitHub](https://github.com/Desmond-Yembi) | desmondyembi72@gmail.com
